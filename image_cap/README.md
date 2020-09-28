@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img height="320" width="800" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/RNN_val_out.png">
+  <img height="900" width="1000" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/RNN_val_out.png">
 </p>
 
 ## Image captioning using LSTM ##
@@ -18,12 +18,12 @@
 </p>
 
 <p align="center">
-  <img height="320" width="800" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/LSTM_train_out.png">
+  <img height="900" width="1000" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/LSTM_train_out.png">
 </p>
 
 
 <p align="center">
-  <img height="320" width="800" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/LSTM_val_out.png">
+  <img height="900" width="1000" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/LSTM_val_out.png">
 </p>
 
 ## Image captioning using LSTM and Attention ##
