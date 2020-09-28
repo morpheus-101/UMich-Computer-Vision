@@ -28,30 +28,30 @@
 
 ## Image captioning using LSTM and Attention ##
 <p align="center">
-  <img height="700" width="850" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/train_out_1.png">
+  <img height="800" width="950" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/train_out_1.png">
 </p>
 
 <p align="center">
-  <img height="700" width="850" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/train_out_2.png">
+  <img height="800" width="950" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/train_out_2.png">
 </p>
 
 <p align="center">
-  <img height="700" width="850" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/train_out_3.png">
+  <img height="800" width="950" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/train_out_3.png">
 </p>
 
 <p align="center">
-  <img height="700" width="850" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/train_out_4.png">
+  <img height="800" width="950" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/train_out_4.png">
 </p>
 
 <p align="center">
-  <img height="700" width="850" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/train_out_5.png">
+  <img height="800" width="950" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/train_out_5.png">
 </p>
 
 <p align="center">
-  <img height="700" width="850" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/train_out_6.png">
+  <img height="800" width="950" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/train_out_6.png">
 </p>
 
 <p align="center">
-  <img height="700" width="850" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/train_out_1.png">
+  <img height="800" width="950" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/train_out_1.png">
 </p>
 
