@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img height="600" width="900" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/RNN_train_out.png">
+  <img height="800" width="900" src="https://github.com/RishikeshDhayarkar/UMich-Computer-Vision/blob/master/image_cap/att_cap/RNN_train_out.png">
 </p>
 
 
